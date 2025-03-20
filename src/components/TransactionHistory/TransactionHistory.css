@@ -1,0 +1,228 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+body {
+  font-family: Arial, sans-serif; }
+
+table {
+  width: 70%;
+  border-collapse: collapse;
+  margin: 0 auto; }
+  table thead {
+    color: white !important;
+    background: black; }
+  table th, table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center; }
+
+tr:nth-child(even) {
+  background-color: #f2f2f2; }
+
+.fadeIn {
+  opacity: 0;
+  animation: fadeIn 1s forwards; }
+
+.fadeIn-1 {
+  animation-delay: 0.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-2 {
+  animation-delay: 1s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-3 {
+  animation-delay: 1.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-4 {
+  animation-delay: 2s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-5 {
+  animation-delay: 2.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-6 {
+  animation-delay: 3s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-7 {
+  animation-delay: 3.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-8 {
+  animation-delay: 4s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-9 {
+  animation-delay: 4.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-10 {
+  animation-delay: 5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-11 {
+  animation-delay: 5.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-12 {
+  animation-delay: 6s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-13 {
+  animation-delay: 6.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-14 {
+  animation-delay: 7s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-15 {
+  animation-delay: 7.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-16 {
+  animation-delay: 8s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-17 {
+  animation-delay: 8.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-18 {
+  animation-delay: 9s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-19 {
+  animation-delay: 9.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-20 {
+  animation-delay: 10s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-21 {
+  animation-delay: 10.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-22 {
+  animation-delay: 11s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-23 {
+  animation-delay: 11.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-24 {
+  animation-delay: 12s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-25 {
+  animation-delay: 12.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-26 {
+  animation-delay: 13s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-27 {
+  animation-delay: 13.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-28 {
+  animation-delay: 14s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-29 {
+  animation-delay: 14.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-30 {
+  animation-delay: 15s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-31 {
+  animation-delay: 15.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-32 {
+  animation-delay: 16s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-33 {
+  animation-delay: 16.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-34 {
+  animation-delay: 17s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-35 {
+  animation-delay: 17.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-36 {
+  animation-delay: 18s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-37 {
+  animation-delay: 18.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-38 {
+  animation-delay: 19s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-39 {
+  animation-delay: 19.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-40 {
+  animation-delay: 20s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-41 {
+  animation-delay: 20.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-42 {
+  animation-delay: 21s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-43 {
+  animation-delay: 21.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-44 {
+  animation-delay: 22s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-45 {
+  animation-delay: 22.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-46 {
+  animation-delay: 23s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-47 {
+  animation-delay: 23.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-48 {
+  animation-delay: 24s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-49 {
+  animation-delay: 24.5s;
+  /* Adjust delay for smooth appearance */ }
+
+.fadeIn-50 {
+  animation-delay: 25s;
+  /* Adjust delay for smooth appearance */ }
+
+/*# sourceMappingURL=TransactionHistory.css.map */
