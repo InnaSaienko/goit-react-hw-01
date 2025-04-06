@@ -1,0 +1,30 @@
+.friend-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    max-width: fit-content;
+    padding: 2%;
+
+    img {
+        border-radius: 50%;
+    }
+
+    .friend-info {
+        margin-left: 10px;
+    }
+
+    .status {
+        font-size: 14px;
+
+        &.online {
+            color: green;
+        }
+
+        &.offline {
+            color: red;
+        }
+    }
+}

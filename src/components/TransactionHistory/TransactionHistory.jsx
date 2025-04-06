@@ -1,5 +1,5 @@
 import React from 'react';
-import './TransactionHistory.css'; // Ensure the CSS is linked
+import './TransactionHistory.css';
 
 const TransactionHistory = ({ items }) => {
     return (
