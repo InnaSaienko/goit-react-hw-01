@@ -4,13 +4,16 @@ import "./FriendList.css";
 
 const FriendList = ({friends}) => {
     return (
-        <ul className="friend-list">
-            {friends.map(friend => (
-                <li key={friend.id}>
-                    <FriendListItem friend={friend}/>
-                </li>
-            ))}
-        </ul>
+        <div className="friend-list">
+            <ul className="list">
+                {friends.map(friend => (
+                    <li key={friend.id}>
+                        <FriendListItem friend={friend}/>
+                    </li>
+                ))}
+            </ul>
+        </div>
+
     );
 };
 

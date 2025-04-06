@@ -1,20 +1,25 @@
 .friend-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 10px;
-    list-style-type: none;
-    padding: 0;
-    margin: 3% 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    margin-top: 3%;
 
-    & li {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        padding: 10px;
+    & .list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 10px;
+        width: 70%;
+        list-style-type: none;
+        padding: 0;
+        margin: 0 auto;
+        border: 1px solid #ccc;
+        border-radius: 5px;
 
+        & li {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+
+        }
     }
 }
 
